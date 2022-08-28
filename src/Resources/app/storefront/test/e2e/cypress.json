@@ -1,0 +1,13 @@
+{
+  "env": {
+    "user": "admin",
+    "pass": "shopware",
+    "salesChannelName": "Storefront",
+    "locale": "en-GB",
+    "admin": "/admin",
+    "apiVersion": "v3",
+    "apiPath": "/api/v3",
+    "projectRoot": "/app",
+    "localUsage": false
+  }
+}

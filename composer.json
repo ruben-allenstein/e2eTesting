@@ -1,0 +1,20 @@
+{
+  "name": "reply/cypress-test",
+  "description": "Cypress test plugin",
+  "version": "1.0.0",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "ReplyCypressTest\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "ReplyCypressTest\\ReplyCypressTest",
+    "copyright": "(c) by Portaltech Reply GmbH",
+    "label": {
+      "de-DE": "Reply Cypress test",
+      "en-GB": "Reply cypress test"
+    }
+  }
+}
