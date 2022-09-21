@@ -1,20 +1,19 @@
 {
-  "name": "reply/cypress-test",
+  "name": "swag/cypress-test",
   "description": "Cypress test plugin",
   "version": "1.0.0",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "ReplyCypressTest\\": "src/"
+      "SwagCypressTest\\": "src/"
     }
   },
   "extra": {
-    "shopware-plugin-class": "ReplyCypressTest\\ReplyCypressTest",
-    "copyright": "(c) by Portaltech Reply GmbH",
+    "shopware-plugin-class": "SwagCypressTest\\SwagCypressTest",
     "label": {
-      "de-DE": "Reply Cypress test",
-      "en-GB": "Reply cypress test"
+      "de-DE": "Swag Cypress test",
+      "en-GB": "Swag cypress test"
     }
   }
 }
