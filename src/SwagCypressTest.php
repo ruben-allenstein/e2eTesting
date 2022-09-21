@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace ReplyCypressTest;
+namespace SwagCypressTest;
 
 use Shopware\Core\Framework\Plugin;
 
-class ReplyCypressTest extends Plugin
+class SwagCypressTest extends Plugin
 {
 }
