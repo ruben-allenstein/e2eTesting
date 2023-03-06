@@ -1,5 +1,7 @@
 # Cypress-frontend-testing
 
+## Working for a demoshop
+
 ## Project structure:
 - account - tests related with the user account
 - checkout - checkout as customer and checkout as guest
