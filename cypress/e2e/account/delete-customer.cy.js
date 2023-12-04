@@ -11,6 +11,6 @@ context('Account', () => {
 
     it('delete customer', () => {
         // call delete Customer function
-        cy.deleteCustomerByEmail()
+        cy.delete-customer-by-email()
     })
 })
