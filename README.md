@@ -14,7 +14,7 @@
   - logout
   - checkout as customer
   - checkout as guest
-  - start
+  - start homepage
 
 ## Implementation of the tests
 - If you want to use the frontend-tests locally you have to include the cypress folder into the root folder of your project and you have to install the cypress dependencies
