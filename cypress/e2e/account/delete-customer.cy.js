@@ -9,7 +9,7 @@ context('Account', () => {
     beforeEach(() => {
    })
 
-    it('delete customer', () => {
+    it('delete customer via email', () => {
         // call delete Customer function
         cy.delete-customer-by-email()
     })
